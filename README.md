@@ -1,8 +1,5 @@
-# 📜About this site
-Regarding this website, a student created OBS Stikh System. We would like to express our gratitude to Github
-
-# 📜About Me
-I am a student from Shanghai who has been studying computer science for 6 years. I have participated in the Blue Bridge Cup, local school competitions, and 3 national level competitions, as well as approximately 7 provincial level competitions.
+# 📜About We
+We are a group of students from Shanghai who have been studying computer science for 6 years. We have participated in the Blue Bridge Cup, local school competitions, 3 national level competitions, and approximately 7 provincial level competitions.
 
 The languages I have learned include C/C++, Python, C #, Lua, Java, and more.
 
@@ -29,12 +26,30 @@ I really like GitHub, it is a community with a good environment. Thank you very 
 ![image](https://img.shields.io/badge/Linux-grub_customizer-blue)
 ![image](https://img.shields.io/badge/Linux-kernelcare-blue)
 
-# 🔍My contact information
+# 📈Github warehouse
+<a href="https://github.com/WhiteFoxLinux/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteFoxLinux&hide=python,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/WhiteFoxLinux/WhiteFoxLinux">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WhiteFoxLinux&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
-You can contact me through QQ, Twitter, or email
+<a href="https://github.com/WhiteFoxLinux/RikeXdiskShell">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteFoxLinux&repo=c++-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
-QQ:3506561279
+
+<a href="https://github.com/WhiteFoxLinux/vAlerianSword-InternetProgramAnalysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteFoxLinux&repo=vAlerianSword-InternetProgramAnalysist&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
+
+
+# 🔍We contact information
+
+You can contact We through QQ, Twitter, or email
 
 E-mail:3506561279@qq.com
 
-My Twitter：@ObsStikh56263
+We Twitter：@ObsStikh56263
+
+Copyright©vAlerain-Cloud 2023-2024.All rights reserved.
